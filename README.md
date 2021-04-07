@@ -1,5 +1,5 @@
 # TheFocusNetSeries
-Code for FocusNet (ISBI 2019) and FocusNet++ ISBI 2021
+Code for FocusNet (ISBI 2019) and FocusNet++ (ISBI 2021)
 
 
 ## Please cite the following papers if you fimd this useful and use it for your research:
