@@ -17,11 +17,10 @@ Code for FocusNet (ISBI 2019) and FocusNet++ (ISBI 2021)
 
 ### FocusNetAlpha/FocusNet++ -
 
-@article{kaul2019divided,
-  title={Divided we stand: A novel residual group attention mechanism for medical image segmentation},
-  author={Kaul, Chaitanya and Pears, Nick and Manandhar, Suresh},
+@article{kaul2019focusnet++,
+  title={FocusNet++: Attentive Aggregated Transformations for Efficient and Accurate Medical Image Segmentation},
+  author={Kaul, Chaitanya and Pears, Nick and Dai, Hang and Murray-Smith, Roderick and Manandhar, Suresh},
   journal={arXiv preprint arXiv:1912.02079},
   year={2019}
 }
-
 
